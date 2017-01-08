@@ -5,10 +5,10 @@
 <?php
 echo "estou aqiu ";
 $i=0;
-for($i=0;$i<=30;$i++){
+for($i=0;$i<=100;$i++){
 	
-	echo "$i<br>";
-	echo "fim bloco";
+	//echo "$i<br>";
+	echo "Denise pereira Denise pereira";
 }
 	
 ?>
