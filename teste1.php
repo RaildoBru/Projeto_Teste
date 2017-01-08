@@ -12,7 +12,7 @@
 
 </head>
 <body>
-	<form class="center">
+	<form class="center" action="Resultado.php" method="Post">
 		Nome:<br>
 		<input type="text" name="Nome" value=""><br>
 		Idade:<br>
